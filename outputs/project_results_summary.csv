@@ -1,0 +1,11 @@
+Metric,Result
+Total Order Items,"110,197"
+Candidate Hubs,5
+Customer States,27
+Decision Variables,135
+Historical Freight Cost,"R$ 2,198,275.64"
+Optimized Transportation Cost,"R$ 1,886,042.42"
+Unconstrained Transportation Cost,"R$ 1,831,893.92"
+Capacity Cost Premium,2.96%
+Best Expansion Hub,RJ
+Best Expansion Cost Reduction,"R$ 8,248.07 per 1,000 units"
